@@ -1,2 +1,3 @@
-# dsba-5122_final-report
+# DSBA 5122 - Final Report
+
 This is a repository for our final presentation in DSBA 5122.
