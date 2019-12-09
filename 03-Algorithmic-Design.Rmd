@@ -1,3 +1,8 @@
 # Algorithmic Design
 
-This is where the write-up for this section will go. 
+The code for the shiny app was initially divided into two parts. One part that contained all the global functions, datasets, and other items that were not required within the Shiny app.  The second part included the main three components of the shiny app (User Interface, Server, and ShinyApp). The code was divided into two parts, app.r and global.r,  for easier understanding and improved performance of the functions called within the shiny app code.
+
+However, in the process of deploying the application, this separation of the code was causing issues in the deployment. Therefore, the global code was added back into the app.R file. However, to assist with code readability, we in the future we would separate our code between these two files again to help with readability and improve performance. At this time though, all the code has been included within the app.R file.    
+
+The main code to develop the shiny app has been arranged in the order of executed output. The user interface (UI) section includes input and output commands in the same order as displayed on the app, which allows users to easily track the specific areas of code. Similarly, the code in the server function of the shiny app has been arranged in congruence with the UI commands. The team utilized various reactive functions to modularize the app and avoid unnecessary computations for enhanced performance. Furthermore, r packages such as DT, waiter and validate have been utilized to help improve interaction with the app. 
+

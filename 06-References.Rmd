@@ -1,0 +1,9 @@
+# References
+
+Alfred Nobel's will, nobelprize.org. https://www.nobelprize.org/alfred-nobel/alfred-nobels-will/
+
+Kaggle - Nobel Laureates, 2017, https://www.kaggle.com/nobelfoundation/nobel-laureates#archive.csv, 
+
+Li, Jichao; Yin, Yian; Fortunato, Santo; Wang Dashun, 2018, "A dataset of publication records for Nobel laureates", https://doi.org/10.7910/DVN/6NJ5RN, Harvard Dataverse, V1, UNF:6:/Mr84aTKPhJytkmsz1tgZQ== [fileUNF]. https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6NJ5RN
+
+TidyTuesday - Nobel Laureate Publications, 2019. https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-14

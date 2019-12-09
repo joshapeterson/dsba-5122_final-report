@@ -1,3 +1,11 @@
 # User Evaluation
 
-This is where the write-up for this section will go. 
+## Who are Our Users?
+
+The app was primarily developed for the Nobel Prize awarding institutions; which includes the Royal Swedish Academy of Sciences, Nobel Assembly at Karolinska Institutet, The Swedish Academy, and a Committee from the Norwegian Parliament. These committees or entities are tasked with selecting the most suited Nobel Prize recipient among all six categories. These four institutions can utilize the app to study the characteristics of historic winners and evaluate if their decisions include any biases towards favoring particular universities, countries, or gender. The app would also assist users to broaden their scope for selection of future winners by identifying most frequently awarded topics, motivations for the award or journals. Finally, the app could also be used by any researcher or individual aiming to get insights on Nobel Prize winners and their journey as a winner.
+
+## Testing the App
+
+FIrst, we would use the Human-Computer Interaction to test if the average person can understand and use the app with ease. We would like to analyze the effects of the app on the final users, access the functionality of the app, and identify any problems that might arise when the end user is using the app. We would do this during the prototype phase of the app development before moving into the final production. We would have the end user evaluate the app based on the following criteria: Functionality, Effectiveness, Efficiency, Usability and usefulness.
+
+We could also assess the usability of the app via a walkthrough of the application with users. We would sit down with individuals and see how they interact with and use the app. Also, we would set various tasks in the app and evaluate how each user accomplishes or doesn't accomplish the task. Therefore, coming to understand the various issues or roadblocks they may face. Additionally, this would give us an opportunity to perform A|B test of the application. We could provide two different versions of the app to sets of people performing these tasks to see what effect the changes have on their ability to perform the task.    

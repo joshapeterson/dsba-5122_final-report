@@ -1,6 +1,6 @@
 ---
 title: "Nobel Prize Winners"
-author: "Dipin Kasana, Kelly O'Shields & Joshua Peterson"
+author: "Group 13: Dipin Kasana, Kelly O'Shields & Joshua Peterson"
 date: "December 9, 2019"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,7 +11,8 @@ link-citations: yes
 
 # Introduction
 
-Hi!
+The Nobel Prize is a global distinction that is awarded to top scientists and thinkers in their respective fields of study.  It was established by the will of Alfred Nobel - a wealthy Scandanavian - who left most of his estate to the establishment of the Nobel Prize.  He set forth that the prize be awarded annually in the following categories: Physics, Medicine, Peace, Chemistry, Literature, and Economic Sciences.  Additionally, he dictated that the awarding institutions should select “those who... have conferred the greatest benefit to humankind.” (nobelprize.org, 2019) 
 
-Bye!
+Our goal is to produce an analytical tool that will help inform these institutions in their future decisions. In order for these institutions to better inform their decisions in the future, it will be essential to understand what has happened historically. For example, it is known that there is a gender disparity among Nobel Prize winners. Furthermore, they may favor certain subjects or entities when making their decisions. Being able to provide a tool that provides insight into these issues would be an incredibly important part of helping to address these biases, disparities and issues in the future. This app facilitates insights into prior Nobel Prize winners for them to consider when making future decisions and would help broaden the scope of potential winners and topics. Additionally, it would enhance the decision making process of these institutions to ensure a more diverse and expansive population of winners.
+
 
