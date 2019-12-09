@@ -1,0 +1,17 @@
+---
+title: "Nobel Prize Winners"
+author: "Dipin Kasana, Kelly O'Shields & Joshua Peterson"
+date: "December 9, 2019"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+biblio-style: apalike
+link-citations: yes
+---
+
+# Introduction
+
+Hi!
+
+Bye!
+
